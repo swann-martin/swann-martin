@@ -1,7 +1,4 @@
-
-
-
-### Hi there I am Front-End Developper : 
+## Hi there I am Front-End Developper : 
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on open source projects
