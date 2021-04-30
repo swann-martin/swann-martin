@@ -49,10 +49,10 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swann-martin&layout=compact)](https://github.com/swann-martin/github-readme-stats)
 
-:arrow_right: [Check out my website](https://swannwho.com/)
 
 ### Contact me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/swann-martin/) 
 
 
+:arrow_right: [Check out my website](https://swannwho.com/)
 
