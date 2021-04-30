@@ -21,33 +21,19 @@
 <img src="https://user-images.githubusercontent.com/71760899/116664148-5b7d6600-a998-11eb-967d-eb09c65b8a3c.png" alt="symfony" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+ <img src="https://user-images.githubusercontent.com/71760899/116682263-52978f00-a9ae-11eb-94c7-516d9ad4cd35.png" alt="mariadb" title="mariadb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title = "nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
  
-<img src="https://user-images.githubusercontent.com/71760899/116666565-6259a800-a99b-11eb-9f4a-72f6a6587066.png" alt="Ubuntu" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/71760899/116665066-92a04700-a999-11eb-9628-171425e9bb90.png" alt="Manjaro" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/71760899/116665329-f0349380-a999-11eb-93bb-3e98ce360bc0.png" alt="Debian" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116666565-6259a800-a99b-11eb-9f4a-72f6a6587066.png" alt="Ubuntu" title="ubuntu" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116665066-92a04700-a999-11eb-9628-171425e9bb90.png" alt="Manjaro" title="manjaro linux"width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116665329-f0349380-a999-11eb-93bb-3e98ce360bc0.png" alt="Debian" title ="debian" width="25" height="25" />
 
-</p>
-
-
+</p>![mariadb]()
 
 
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=888)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
-![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swann-martin&layout=compact)](https://github.com/swann-martin/github-readme-stats)
 
