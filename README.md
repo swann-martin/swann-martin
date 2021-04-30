@@ -1,3 +1,4 @@
+![ubuntu-logo](https://user-images.githubusercontent.com/71760899/116664548-ee1e0500-a998-11eb-925b-e1af8a2ff492.jpg)
 ## Hi there, I am Swann:
 ### Front-End Developper
 
@@ -14,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116664772-33dacd80-a999-11eb-99d6-be6a10726c4c.png" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/71760899/116664148-5b7d6600-a998-11eb-967d-eb09c65b8a3c.png" alt="symfony" width="25" height="25" />
@@ -24,8 +25,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-</p>
+ 
+<img src="https://user-images.githubusercontent.com/71760899/116664600-fd04b780-a998-11eb-915c-9edb1291ae24.jpg" alt="Ubuntu" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116665066-92a04700-a999-11eb-9628-171425e9bb90.png" alt="Manjaro" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116665329-f0349380-a999-11eb-93bb-3e98ce360bc0.png" alt="Debian" width="25" height="25" />
 
+</p>
 
 
 
