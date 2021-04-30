@@ -27,7 +27,7 @@
  <img src="https://user-images.githubusercontent.com/71760899/116682263-52978f00-a9ae-11eb-94c7-516d9ad4cd35.png" alt="mariadb" title="mariadb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title = "nodejs" width="25" height="25" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" title="heroku" width="25" height="25" />
 
  
 <img src="https://user-images.githubusercontent.com/71760899/116666565-6259a800-a99b-11eb-9f4a-72f6a6587066.png" alt="Ubuntu" title="ubuntu" width="25" height="25" />
@@ -36,13 +36,13 @@
 
 
 
-### :mortar_board: Interested in learning more about
+### :mortar_board: I am interested in learning more about
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="25" height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="mongodb" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" title="angular" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" title="VueJS" width="25" height="25" />
 </p>
 
 
