@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
  
-<img src="https://user-images.githubusercontent.com/71760899/116665884-9a142000-a99a-11eb-8914-c467ada75eec.png" alt="Ubuntu" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116666565-6259a800-a99b-11eb-9f4a-72f6a6587066.png" alt="Ubuntu" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/71760899/116665066-92a04700-a999-11eb-9628-171425e9bb90.png" alt="Manjaro" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/71760899/116665329-f0349380-a999-11eb-93bb-3e98ce360bc0.png" alt="Debian" width="25" height="25" />
 
