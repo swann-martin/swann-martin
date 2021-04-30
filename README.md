@@ -8,7 +8,7 @@
 
 :arrow_right: [Check out my website](https://swannwho.com/)
 
-### :wrench: Technologies & Languages
+### :wrench: Technologies & Languages I use
  <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 
@@ -36,7 +36,7 @@
 
 
 
-### Interested in learning 
+### :mortar_board: Interested in learning more about
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="25" height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="25" height="25" />
