@@ -49,6 +49,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swann-martin&layout=compact)](https://github.com/swann-martin/github-readme-stats)
 
+ <img src="https://www.codewars.com/users/swannwho/badges/micro" alt="codwar" title="codewar"/>
 
 ### Contact me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/swann-martin/) 
