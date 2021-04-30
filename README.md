@@ -10,20 +10,20 @@
 
 ### :wrench: Technologies & Languages I use
  <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="ReactJS" width="25" height="25" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="25" height="25" />
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/71760899/116682993-4cee7900-a9af-11eb-889d-49fbc9ebb2f8.png" alt="sass" title="sass" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="bootstrap" width="25" height="25" />
 
-<img src="https://user-images.githubusercontent.com/71760899/116664772-33dacd80-a999-11eb-99d6-be6a10726c4c.png" alt="php" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/71760899/116664148-5b7d6600-a998-11eb-967d-eb09c65b8a3c.png" alt="symfony" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116664772-33dacd80-a999-11eb-99d6-be6a10726c4c.png" alt="php" title="php" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/71760899/116664148-5b7d6600-a998-11eb-967d-eb09c65b8a3c.png" alt="symfony" width="25" title ="symfony" height="25" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" title="mysql" height="25" />
  <img src="https://user-images.githubusercontent.com/71760899/116682263-52978f00-a9ae-11eb-94c7-516d9ad4cd35.png" alt="mariadb" title="mariadb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title = "nodejs" width="25" height="25" />
 
