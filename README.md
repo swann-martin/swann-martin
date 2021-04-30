@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ReactJS and TypeScript to specialize in front-end.
 - 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I graduated in English Literature in University and taught French in a secondary school in UK. I installed Linux and decided to become a developper.
+- ⚡ Fun fact: I graduated in English Literature in University and taught French in a secondary school in UK. One day I installed Linux on my laptop and it was not long before I decided to become a developper.
 
 
 
