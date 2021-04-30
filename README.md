@@ -25,6 +25,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
+![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swann-martin&layout=compact)](https://github.com/swann-martin/github-readme-stats)
 
