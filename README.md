@@ -2,7 +2,7 @@
 ## Hi there, I am Swann:
 ### Front-End Developper
 
-- 🌱 I’m currently learning ReactJS and TypeScript
+- 🌱 After a 4 months training with front-end and back-end elements I’m currently learning ReactJS and TypeScript to specialize in front-end.
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I graduated in English Literature in University and taught French in a secondary school in UK. I installed Linux and decided to become a developper.
 
