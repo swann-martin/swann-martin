@@ -1,11 +1,10 @@
 
-## Hi there, I am Swann:
-### Front-End Developper
+## Hi there, my name is Swann Martin:
+### Full-Stack Web Developper
 
-- 🌱 I’m currently learning ReactJS and TypeScript to specialize in front-end.
+- ⚡ I like working with ReactJS, NextJS, TypeScript and SCSS.
 - 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I graduated in English Literature in University and taught French in a secondary school in UK. One day I installed Linux on my laptop and it was not long before I decided to become a developper.
-
+- 🌱 I am interested in web3 and aim to learn about Solidity, in the future and I like GNU Linux as my main OS.
 
 
 ### :wrench: Technologies & Languages I use
@@ -26,9 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" title="mysql" height="25" />
  <img src="https://user-images.githubusercontent.com/71760899/116682263-52978f00-a9ae-11eb-94c7-516d9ad4cd35.png" alt="mariadb" title="mariadb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title = "nodejs" width="25" height="25" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" title="heroku" width="25" height="25" />
-
  
 <img src="https://user-images.githubusercontent.com/71760899/116666565-6259a800-a99b-11eb-9f4a-72f6a6587066.png" alt="Ubuntu" title="ubuntu" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/71760899/116665066-92a04700-a999-11eb-9628-171425e9bb90.png" alt="Manjaro" title="manjaro linux"width="25" height="25" />
