@@ -2,9 +2,9 @@
 ## Hi there, my name is Swann Martin:
 ### Full-Stack Web Developper
 
-- ⚡ I like working with ReactJS, NextJS, TypeScript and SCSS.
+- ⚡ I like working with ReactJS, Reat-Native, NextJS, TypeScript and SCSS.
 - 👯 I’m looking to collaborate on open source projects
-- 🌱 I am interested in web3 and aim to learn about Solidity, in the future and I like GNU Linux as my main OS.
+- 🌱 I am interested in web3 and aim to learn about Solidity, and I like GNU Linux as my main OS.
 
 
 ### :wrench: Technologies & Languages I use
