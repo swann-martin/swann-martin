@@ -51,5 +51,5 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/swann-martin/) 
 
 
-:arrow_right: [Check out my website](https://swannwho.com/)
+:arrow_right: [Check out my website](https://swannmartin.xyz/)
 
