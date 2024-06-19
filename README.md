@@ -2,9 +2,9 @@
 ## Hi there, my name is Swann Martin:
 ### Full-Stack Web Developper
 
-- ⚡ I like working with ReactJS, React-Native, NextJS, TypeScript, Flutter and SCSS.
+- ⚡ I like working with PHP, Laravel, Symfony, React-Native, NextJS, and TypeScript.
 - 👯 I’m looking to collaborate on open source projects
-- 🌱 I am more and more interested in Flutter, and I like GNU Linux as my main OS but I can work on Mac or Windows.
+- 🌱 I am passionate about linux.
 
 
 ### :wrench: Technologies & Languages I use
@@ -34,8 +34,6 @@
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="25" height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="mongodb" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" title="angular" width="25" height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" title="VueJS" width="25" height="25" />
 </p>
 
