@@ -2,7 +2,7 @@
 ## Hi there, my name is Swann Martin:
 ### Full-Stack Web Developper
 
-- ⚡ I like working with PHP, Laravel, Symfony, React-Native, NextJS, and TypeScript.
+- ⚡ I like working with PHP, Laravel, Symfony, React-Native, Vue.js, and TypeScript.
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I am passionate about linux.
 
