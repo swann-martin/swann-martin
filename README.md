@@ -22,6 +22,7 @@
 <img src="https://user-images.githubusercontent.com/71760899/116664772-33dacd80-a999-11eb-99d6-be6a10726c4c.png" alt="php" title="php" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/71760899/116664148-5b7d6600-a998-11eb-967d-eb09c65b8a3c.png" alt="symfony" width="25" title ="symfony" height="25" />
 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" title="mysql" height="25" />
  <img src="https://user-images.githubusercontent.com/71760899/116682263-52978f00-a9ae-11eb-94c7-516d9ad4cd35.png" alt="mariadb" title="mariadb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title = "nodejs" width="25" height="25" />
@@ -33,7 +34,6 @@
 ### :mortar_board: I am interested in learning more about
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="25" height="25" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="25" height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" title="VueJS" width="25" height="25" />
 </p>
 
